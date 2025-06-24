@@ -160,6 +160,9 @@ En décembre 1961, afin d'accueillir un nombre croissant d'étudiants, est posé
 
 En 1988, la ville affirme encore un peu plus son caractère scientifique avec la mise en service des antennes géantes de l'Interféromètre du plateau de Bure dans les Hautes-Alpes rattaché à l'Institut de radioastronomie millimétrique du campus. Parallèlement, Alain Carignon rénove certains bâtiments historiques du centre-ville comme l'ancien palais des évêques qui deviendra en 1998 le musée de l'Ancien Évêché ou la halle Sainte-Claire rénovée et inaugurée le 2 février 1991, mais s'attache tout particulièrement depuis le début de son mandat au projet d'implantation d'un nouvel instrument scientifique d'envergure internationale. C'est en effet depuis 1984, que la décision est prise par la communauté scientifique d'installer un synchrotron en France. Après une hésitation face au site de Strasbourg, le chantier de l'anneau de 844 mètres de circonférence du synchrotron démarre en avril 1990 sur le site du polygone scientifique.
 
+![Le Polygonne scientifique instaler au pied de la chartreuse de Grenoble]({{site.baseurl}}/assets/img/favicon/Polygone_scientifique_-_Grenoble.jpg)
+
+
 ## Le XXI éme siècle
 
 Avec le cap de l'an 2000, la communauté scientifique, avec à sa tête Jean Therme[181], prépare la reconversion de l'activité nucléaire avec l'arrêt des piles nucléaires Siloé, Siloette et Mélusine. Ainsi en 2006 est inauguré en l'absence de grande personnalité politique française, le centre Minatec, premier centre européen de recherche sur les nanotechnologies, installé à l'origine sur 45 000 m2 à l'entrée du Polygone scientifique[182], suscitant de nombreuses critiques de la part des opposants à ces technologies. La veille de son inauguration, une manifestation a réuni entre 800 et 1 000 opposants[183]. Mais, Minatec préfigure d'autres créations de ce type, tel NanoBio ou Clinatec. 
