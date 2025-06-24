@@ -3,7 +3,7 @@ layout: post
 title: Histoire de la ville de Grenoble
 date: 2025-06-24 11:22:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: /img/visiter-grenoble-au-coeur-des-alpes.jpg # Add image post (optional)
+img: Gabriel15wxc/flexible-jekyll/assets/img/visiter-grenoble-au-coeur-des-alpes.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
