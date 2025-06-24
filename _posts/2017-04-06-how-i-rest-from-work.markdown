@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
 ## Une histoire de plus de deux milles ans !!!
-Grenoble, ville d'une population d'environ 450 000 habitants, une métropole française de 49 communes, située en Isère (38) dans la région Auvergne Rhône-Alpes, et d'une superficie de 546 km2 connue pour ses Terre de randonnée, de ski, de canyon ou de VTT, Grenoble est située proche des frontières Italienne et Hélvétiques, au nord-est de Lyon emplacement strategique duquel Grenoble fit profit durant toute sont histoire. Mais Grenoble ne sait pas construite seul! Connassez-vous son histoire ?, Ce qui la forger ?, Ces guerres ? ou ses exploits ? 
+Grenoble, ville d'une population d'environ 450 000 habitants, une métropole française de 49 communes, située en Isère (38) dans la région Auvergne Rhône-Alpes, et d'une superficie de 546 km2 connue pour ses Terre de randonnée, de ski, de canyon ou de VTT, Grenoble est située proche des frontières Italienne et Hélvétiques, au nord-est de Lyon emplacement strategique duquel Grenoble fit profit durant toute sont histoire. Mais Grenoble ne sait pas construite seul! Connaissez-vous son histoire ?, Ce qui la forger ?, Ces guerres ? ou ses exploits ? 
 Je vous propose avec ce site de faire connaissance d'une histoire veille de plus de deux milles ans.
 
 ## L'Antiquité Grenobloise
